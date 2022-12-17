@@ -10,4 +10,4 @@ The project followed a notebook style and was created in a Google Collab Environ
 
 We used Supervised Machine Learning Methods because they obtain promising results in Classification problems and help the new engineers understand the basic principles of Machine Learning. 
 
-This project was written in Python and in collaboration with Thiibaut Le Marre ( https://github.com/ThibautLM ).
+This project was written in Python and in collaboration with Thibaut Le Marre ( https://github.com/thibaut-lm ).
